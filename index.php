@@ -8,7 +8,7 @@
 
 	<header>
 		<inner-column>
-			<h1 class="top-level-heading">Basic CSS Quiz</h1>
+			<h1 class="top-level-heading">CSS 101 Quiz</h1>
 		</inner-column>
 	</header>
 
