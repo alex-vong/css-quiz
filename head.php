@@ -11,8 +11,8 @@
 		<meta property="og:type" content="">
 		<meta property="og:url" content="">
 
-		<meta property="og:image" content="images/meta-img.svg"  />
-		<meta property="og:image:type" content="images/meta-img.svg" />
+		<meta property="og:image" content="https://alexvong.dev/images/meta-img.svg"  />
+		<meta property="og:image:type" content="https://alexvong.dev/images/meta-img.svg" />
 		<link rel="shortcut icon" type="image/jpg" href="images/favicon.svg" />
 
 		<link rel='stylesheet' href='css/style.css'>
